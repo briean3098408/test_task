@@ -262,7 +262,6 @@ text-align: center;
 }
 
 .content-title h1 {
-	width: 645px;
 	font-family: Montserrat;
    
 }
@@ -273,7 +272,8 @@ text-align: center;
 	line-height: 85px;
 	font-weight: 300;
 	text-align: center;
-	
+		width: 645px;
+
 }
 
 .content-buttons {
@@ -296,6 +296,7 @@ text-align: center;
     letter-spacing: 0.02em;
 text-align: center;
 	margin-top: 90px;
+	border: 0px;
 
 }
 
@@ -317,6 +318,7 @@ text-align: center;
 	margin-top: 90px;
     background: #F38120;
 	margin-left: 18px;
+	border: 0px;
 
 }
 
